@@ -151,6 +151,12 @@ cython_debug/
 .idea/**/dictionaries
 .idea/**/shelf
 
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
 # Generated files
 .idea/**/contentModel.xml
 
